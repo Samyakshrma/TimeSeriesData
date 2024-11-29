@@ -3,8 +3,8 @@
 ## Anomaly Detection Results
 
 ### 1. **CPU Temperature Over Time with Anomalies**
-![CPU Temperature Anomalies Plot](![1](https://github.com/user-attachments/assets/5cf32593-6ac4-4a1a-9323-a5212440cafc)
-)
+![1](https://github.com/user-attachments/assets/a605ff12-4d64-49be-bf8f-88d49a4b0257)
+
 
 ---
 
