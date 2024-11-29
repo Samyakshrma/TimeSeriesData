@@ -9,27 +9,27 @@
 ---
 
 ### 2. **CPU Usage Over Time with Anomalies**
-![CPU Usage Anomalies Plot](#image_placeholder)
+![2](https://github.com/user-attachments/assets/6f28048a-a615-4ffa-a2c7-4459dd1c311a)
 
 ---
 
 ### 3. **CPU Load Over Time with Anomalies**
-![CPU Load Anomalies Plot](#image_placeholder)
+![3](https://github.com/user-attachments/assets/d58576cf-72a8-4acd-8198-8bf79f857b86)
 
 ---
 
 ### 4. **Memory Usage Over Time with Anomalies**
-![Memory Usage Anomalies Plot](#image_placeholder)
+![4](https://github.com/user-attachments/assets/41583b35-7d4e-477e-8cb8-1e77294c58dc)
 
 ---
 
 ### 5. **Battery Level Over Time with Anomalies**
-![Battery Level Anomalies Plot](#image_placeholder)
+![5](https://github.com/user-attachments/assets/89fd816b-9064-4a75-aa18-1655bf4fbfbf)
 
 ---
 
 ### 6. **CPU Power Over Time with Anomalies**
-![CPU Power Anomalies Plot](#image_placeholder)
+![6](https://github.com/user-attachments/assets/235cedc8-8583-4597-a562-0035abd8342e)
 
 ---
 
